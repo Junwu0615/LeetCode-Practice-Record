@@ -6,3 +6,7 @@
 <br>
 
 ## *紀錄 Leetcode 刷題*
+
+### A.　LeetCode 75
+- ### [解題檔案](./ans/leetcode_75)
+- ### [官網題目](https://leetcode.com/studyplan/leetcode-75/)
