@@ -5,8 +5,17 @@
 
 <br>
 
-## *紀錄 Leetcode 刷題*
+## *⭐ 紀錄 Leetcode 刷題 ⭐*
 
-### A.　LeetCode 75
-- ### [解題檔案](./ans/leetcode_75)
-- ### [官網題目](https://leetcode.com/studyplan/leetcode-75/)
+
+### 📋 *LeetCode 75*
+- #### [Problem Source](https://leetcode.com/studyplan/leetcode-75/)
+- #### [Problem Solving Files](./ans/leetcode_75)
+
+### 📋 *Top Interview 150*
+- #### [Problem Source](https://leetcode.com/studyplan/top-interview-150/)
+- #### [Problem Solving Files](./ans/top_interview_150)
+
+### 📋 *SQL 50*
+- #### [Problem Source](https://leetcode.com/studyplan/top-sql-50/)
+- #### [Problem Solving Files](./ans/sql_50)
