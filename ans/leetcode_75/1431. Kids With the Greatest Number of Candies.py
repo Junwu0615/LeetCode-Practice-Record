@@ -3,8 +3,5 @@ class Solution:
         ret = []
         check = sorted(candies)[-1]
         for i in candies:
-            if i + extraCandies >= check:
-                ret += [True]
-            else:
-                ret += [False]
+            ret += [True] if i + extraCandies >= check else [False]
         return ret
