@@ -9,7 +9,7 @@
 
 
 ### 📋 *LeetCode 75*
-- #### ![LeetCode](https://img.shields.io/badge/LeetCode_75-8_%2F_75-blue?style=badge)
+- #### ![LeetCode](https://img.shields.io/badge/LeetCode_75-11_%2F_75-blue?style=badge)
 - #### [Problem Source](https://leetcode.com/studyplan/leetcode-75/)
 - #### [Problem Solving Files](./ans/leetcode_75)
 
