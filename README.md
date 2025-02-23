@@ -7,6 +7,7 @@
 
 ## *⭐ 紀錄 Leetcode 刷題 ⭐*
 
+<img align="center" height="250" src="https://leetcard.jacoblin.cool/Ping_Chun?ext=heatmap"/>
 
 ### 📋 *LeetCode 75*
 - #### ![LeetCode](https://img.shields.io/badge/LeetCode_75-11_%2F_75-blue?style=badge)
