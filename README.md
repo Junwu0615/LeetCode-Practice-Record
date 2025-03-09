@@ -10,7 +10,7 @@
 <img align="center" height="250" src="https://leetcard.jacoblin.cool/Ping_Chun?ext=heatmap"/>
 
 ### 📋 *LeetCode 75*
-- #### ![LeetCode](https://img.shields.io/badge/LeetCode_75-25_%2F_75-blue?style=badge)
+- #### ![LeetCode](https://img.shields.io/badge/LeetCode_75-26_%2F_75-blue?style=badge)
 - #### [Problem Source](https://leetcode.com/studyplan/leetcode-75/)
 - #### [Problem Solving Files](./ans/leetcode_75)
 
