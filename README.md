@@ -30,8 +30,33 @@
 
 <br>
 
+### 📋 *指定題目練習*
+- ### *Array / Hash 類題*
+    | 題目 | 位置 | 目的 | 解決日期 |
+    |:--|:--:|:--:|:- -:|
+    | - | `other` |  | - |
+    | - | `other` |  | - |
+- ### *String / Stack / Linked List 類題*
+    | 題目 | 位置 | 目的 | 解決日期 |
+    |:--|:--:|:--:|:- -:|
+    | - | `other` |  | - |
+    | - | `other` |  | - |
+- ### *Dynamic Programming / 綜合邏輯題*
+    | 題目 | 位置 | 目的 | 解決日期 |
+    |:--|:--:|:--:|:- -:|
+    | - | `other` |  | - |
+    | - | `other` |  | - |
+- ### *Other*
+    | 題目 | 位置 | 目的 | 解決日期 |
+    |:--|:--:|:--:|:--:|
+    | 15. 3Sum | `other` | 排序＋雙指標經典中階題 | - |
+    | 238. Product of Array Except Self | `other` | prefix/suffix 思維，O(n)、O(1) 空間版本 | - |
+    | 141. Linked List Cycle | `other` | Floyd Cycle Detection (快慢指標) | - |
+
+<br>
+
 ### 📋 *攏看無*
 | 題目 | 位置 | 難易度 | 解決日期 |
 |:--|:--:|:--:|:--:|
-|842. Split Array into Fibonacci Sequence.py|`other`| `medium` | - |
-|873. Length of Longest Fibonacci Subsequence.py|`other`| `medium` | - |
+| 842. Split Array into Fibonacci Sequence | `other` | `medium` | - |
+| 873. Length of Longest Fibonacci Subsequence | `other` | `medium` | - |
