@@ -17,14 +17,12 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for idx_out, v in enumerate(nums):
-            check = target - v
-            if check in nums:
-                if nums.index(check) != idx_out:
-                    return sorted([idx_out, nums.index(check)])
-            # for idx_in, i in enumerate(nums[idx_out + 1:]):
-            #     if i == check:
-            #         return [idx_out, idx_in + idx_out + 1]
+        hashmap = {}
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in hashmap:
+                return [hashmap[complement], i]
+            hashmap[num] = i
 
 
 if __name__ == '__main__':
