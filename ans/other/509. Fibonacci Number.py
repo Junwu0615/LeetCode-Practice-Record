@@ -17,15 +17,39 @@ TODO
         輸入： n = 4
         輸出： 3
         解釋： F(4) = F(3) + F(2) = 2 + 1 = 3
+
+TODO
+        最優解通常是使用動態規劃（Dynamic Programming）或迭代的方法，因為這兩種方法都能達到 O(n) 的時間複雜度
 """
 class Solution:
+    def __init__(self):
+        self.mapping_dict = {}
+        self.mapping_dict = self.mapping_process()
+
+    def mapping_process(self):
+        mapping_dict = {}
+        for key in range(0, 10):
+            mapping_dict[key] = self.fib(key)
+        return mapping_dict
+
+
     def fib(self, n: int) -> int:
-        if n == 0:
-            return 0
-        elif n == 1:
-            return 1
+        # 法一
+        # if n == 0:
+        #     return 0
+        # elif n == 1:
+        #     return 1
+        # else:
+        #     return self.fib(n - 1) + self.fib(n - 2)
+
+        # 法二
+        if n in self.mapping_dict:
+            return self.mapping_dict[n]
         else:
-            return self.fib(n - 1) + self.fib(n - 2)
+            if n in [0, 1]:
+                return 0 if n == 0 else 1
+            else:
+                return self.fib(n - 1) + self.fib(n - 2)
 
 
 if __name__ == '__main__':
