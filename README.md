@@ -30,25 +30,37 @@
 
 <br>
 
-### 📋 *指定題目練習*
+### 📋 *202510 指定題目練習*
 - ### *Array / Hash 類題*
     | 題目 | 位置 | 目的 | 解決日期 |
-    |:--|:--:|:--:|:- -:|
-    | - | `other` |  | - |
-    | - | `other` |  | - |
+    |:--|:--:|:--:|:--:|
+    | 1. Two Sum | `other` | HashMap 快速查找，O(n) 解法 | - |
+    | 136. Single Number | `other` | XOR 性質，找唯一數字 | - |
+    | 217. Contains Duplicate | `other` | set 判重，O(n) 解法 | - |
+    | 26. Remove Duplicates from Sorted Array | `other` | 雙指標寫法 | - |
+    | 121. Best Time to Buy and Sell Stock | `other` | 維護最小價格、最大利潤 | - |
+
 - ### *String / Stack / Linked List 類題*
     | 題目 | 位置 | 目的 | 解決日期 |
-    |:--|:--:|:--:|:- -:|
-    | - | `other` |  | - |
-    | - | `other` |  | - |
+    |:--|:--:|:--:|:--:|
+    | 20. Valid Parentheses | `other` | Stack 維護括號配對 | - |
+    | 125. Valid Palindrome | `other` | 雙指標、清洗字元 | - |
+    | 344. Reverse String | `other` | 雙指標 in-place 交換 | - |
+    | 21. Merge Two Sorted Lists | `other` | Linked List 合併、dummy node | - |
+    | 206. Reverse Linked List | `other` | 迴圈／遞迴雙寫法 | - |
+
 - ### *Dynamic Programming / 綜合邏輯題*
     | 題目 | 位置 | 目的 | 解決日期 |
-    |:--|:--:|:--:|:- -:|
-    | - | `other` |  | - |
-    | - | `other` |  | - |
+    |:--|:--:|:--:|:--:|
+    | 70. Climbing Stairs | `other` | 最基本 DP 遞推關係式 | - |
+    | 198. House Robber | `other` | DP 狀態轉移、相鄰排除 | - |
+    | 53. Maximum Subarray | `other` | Kadane’s Algorithm 經典 | - |
+    | 283. Move Zeroes | `other` | 雙指標、就地操作 | - |
+    | 268. Missing Number | `other` | XOR／數學公式雙法對比 | - |
+
 - ### *Other*
     | 題目 | 位置 | 目的 | 解決日期 |
-    |:--|:--:|:--:|:--:|
+    |:--|:--:|:--|:--:|
     | 15. 3Sum | `other` | 排序＋雙指標經典中階題 | - |
     | 238. Product of Array Except Self | `other` | prefix/suffix 思維，O(n)、O(1) 空間版本 | - |
     | 141. Linked List Cycle | `other` | Floyd Cycle Detection (快慢指標) | - |
