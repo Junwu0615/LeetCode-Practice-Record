@@ -31,6 +31,7 @@
 <br>
 
 ### 📋 *攏看無*
-| 題目 | 位置 | 解決日期 |
-|:--:|:--:|:--:|
-|842. Split Array into Fibonacci Sequence.py|`other`|-|
+| 題目 | 位置 | 難易度 | 解決日期 |
+|:--:|:--:|:--:|:--:|
+|842. Split Array into Fibonacci Sequence.py|`other`| `medium` | - |
+|873. Length of Longest Fibonacci Subsequence.py|`other`| `medium` | - |
