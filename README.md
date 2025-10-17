@@ -14,14 +14,23 @@
 - #### [Problem Source](https://leetcode.com/studyplan/leetcode-75/)
 - #### [Problem Solving Files](./ans/leetcode_75)
 
+<br>
 
 ### 📋 *Top Interview 150*
 - #### ![LeetCode](https://img.shields.io/badge/Top_Interview_150-0_%2F_150-blue?style=badge)
 - #### [Problem Source](https://leetcode.com/studyplan/top-interview-150/)
 - #### [Problem Solving Files](./ans/top_interview_150)
 
+<br>
 
 ### 📋 *SQL 50*
 - #### ![LeetCode](https://img.shields.io/badge/SQL_50-0_%2F_50-blue?style=badge)
 - #### [Problem Source](https://leetcode.com/studyplan/top-sql-50/)
 - #### [Problem Solving Files](./ans/sql_50)
+
+<br>
+
+### 📋 *攏看無*
+|題目|位置|解決日期|
+|--|--|--|
+|842. Split Array into Fibonacci Sequence.py|`other`|-|
