@@ -35,8 +35,8 @@
     | 題目 | 位置 | 目的 | 解決日期 |
     |:--|:--:|:--|:--:|
     | 1. Two Sum | `other` | HashMap 快速查找，O(n) 解法 | 2025-10-17 |
-    | 136. Single Number | `other` | XOR 性質，找唯一數字 | - |
-    | 217. Contains Duplicate | `other` | set 判重，O(n) 解法 | - |
+    | 136. Single Number | `other` | XOR 性質，找唯一數字 | 2025-10-17 |
+    | 217. Contains Duplicate | `other` | set 判重，O(n) 解法 | 2025-10-17 |
     | 26. Remove Duplicates from Sorted Array | `other` | 雙指標寫法 | - |
     | 121. Best Time to Buy and Sell Stock | `other` | 維護最小價格、最大利潤 | - |
 
