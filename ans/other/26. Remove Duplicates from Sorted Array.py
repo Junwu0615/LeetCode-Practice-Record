@@ -24,6 +24,8 @@ class Solution:
                 slow += 1
                 nums[slow] = nums[fast]
         return slow + 1
+        # nums = list(set(nums))
+        # return len(nums)
 
 if __name__ == '__main__':
     s = Solution()
