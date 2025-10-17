@@ -31,6 +31,6 @@
 <br>
 
 ### 📋 *攏看無*
-|題目|位置|解決日期|
-|--|--|--|
+| 題目 | 位置 | 解決日期 |
+|:--:|:--:|:--:|
 |842. Split Array into Fibonacci Sequence.py|`other`|-|
