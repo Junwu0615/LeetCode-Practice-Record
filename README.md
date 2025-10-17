@@ -33,7 +33,7 @@
 ### 📋 *202510 指定題目練習*
 - ### *Array / Hash 類題*
     | 題目 | 位置 | 目的 | 解決日期 |
-    |:--|:--:|:--:|:--:|
+    |:--|:--:|:--|:--:|
     | 1. Two Sum | `other` | HashMap 快速查找，O(n) 解法 | - |
     | 136. Single Number | `other` | XOR 性質，找唯一數字 | - |
     | 217. Contains Duplicate | `other` | set 判重，O(n) 解法 | - |
@@ -42,7 +42,7 @@
 
 - ### *String / Stack / Linked List 類題*
     | 題目 | 位置 | 目的 | 解決日期 |
-    |:--|:--:|:--:|:--:|
+    |:--|:--:|:--|:--:|
     | 20. Valid Parentheses | `other` | Stack 維護括號配對 | - |
     | 125. Valid Palindrome | `other` | 雙指標、清洗字元 | - |
     | 344. Reverse String | `other` | 雙指標 in-place 交換 | - |
@@ -51,7 +51,7 @@
 
 - ### *Dynamic Programming / 綜合邏輯題*
     | 題目 | 位置 | 目的 | 解決日期 |
-    |:--|:--:|:--:|:--:|
+    |:--|:--:|:--|:--:|
     | 70. Climbing Stairs | `other` | 最基本 DP 遞推關係式 | - |
     | 198. House Robber | `other` | DP 狀態轉移、相鄰排除 | - |
     | 53. Maximum Subarray | `other` | Kadane’s Algorithm 經典 | - |
