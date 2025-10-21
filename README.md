@@ -52,11 +52,11 @@
 - ### *Dynamic Programming / 綜合邏輯題*
     | 題目 | 位置 | 目的 | 解決日期 |
     |:--|:--:|:--|:--:|
-    | 70. Climbing Stairs | `other` | 最基本 DP 遞推關係式 | - |
+    | 70. Climbing Stairs | `other` | 最基本 DP 遞推關係式 | 2025-10-21 |
     | 198. House Robber | `other` | DP 狀態轉移、相鄰排除 | - |
     | 53. Maximum Subarray | `other` | Kadane’s Algorithm 經典 | - |
     | 283. Move Zeroes | `other` | 雙指標、就地操作 | - |
-    | 268. Missing Number | `other` | XOR／數學公式雙法對比 | - |
+    | 268. Missing Number | `other` | XOR／數學公式雙法對比 | 2025-10-21 |
 
 - ### *Other*
     | 題目 | 位置 | 目的 | 解決日期 |
