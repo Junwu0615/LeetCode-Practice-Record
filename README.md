@@ -47,7 +47,7 @@
     | 125. Valid Palindrome | `other` | 雙指標、清洗字元 | - |
     | 344. Reverse String | `other` | 雙指標 in-place 交換 | - |
     | 21. Merge Two Sorted Lists | `other` | Linked List 合併、dummy node | - |
-    | 206. Reverse Linked List | `other` | 迴圈／遞迴雙寫法 | - |
+    | 206. Reverse Linked List | `other` | 迴圈／遞迴雙寫法 | 2025-10-21 |
 
 - ### *Dynamic Programming / 綜合邏輯題*
     | 題目 | 位置 | 目的 | 解決日期 |
@@ -61,7 +61,7 @@
 - ### *Other*
     | 題目 | 位置 | 目的 | 解決日期 |
     |:--|:--:|:--|:--:|
-    | 15. 3Sum | `other` | 排序＋雙指標經典中階題 | - |
+    | 15. 3Sum | `other` | 排序＋雙指標經典中階題 | 2025-10-21 |
     | 238. Product of Array Except Self | `other` | prefix/suffix 思維，O(n)、O(1) 空間版本 | - |
     | 141. Linked List Cycle | `other` | Floyd Cycle Detection (快慢指標) | - |
 
