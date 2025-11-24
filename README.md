@@ -10,7 +10,7 @@
 <img align="center" height="250" src="https://leetcard.jacoblin.cool/Ping_Chun?ext=heatmap"/>
 
 ### 📋 *LeetCode 75*
-- #### ![LeetCode](https://img.shields.io/badge/LeetCode_75-27_%2F_75-blue?style=badge)
+- #### ![LeetCode](https://img.shields.io/badge/LeetCode_75-29_%2F_75-blue?style=badge)
 - #### [Problem Source](https://leetcode.com/studyplan/leetcode-75/)
 - #### [Problem Solving Files](./ans/leetcode_75)
 
@@ -24,7 +24,7 @@
 <br>
 
 ### 📋 *SQL 50*
-- #### ![LeetCode](https://img.shields.io/badge/SQL_50-0_%2F_50-blue?style=badge)
+- #### ![LeetCode](https://img.shields.io/badge/SQL_50-8_%2F_50-blue?style=badge)
 - #### [Problem Source](https://leetcode.com/studyplan/top-sql-50/)
 - #### [Problem Solving Files](./ans/sql_50)
 
