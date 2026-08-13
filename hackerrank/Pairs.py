@@ -32,8 +32,8 @@ def pairs(k, arr):
             j += 1
         else:
             i += 1
-            if i == j:
-                j += 1
+            # if i == j:
+            #     j += 1
     return count
 
 
