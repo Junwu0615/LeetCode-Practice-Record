@@ -9,7 +9,7 @@ import sys
 
 # Complete the substrCount function below.
 def substrCount(n, s):
-    blocks = []
+    ret = []
     i = 0
     while i < n:
         char = s[i]
@@ -17,16 +17,19 @@ def substrCount(n, s):
         while i + 1 < n and s[i + 1] == char:
             count += 1
             i += 1
-        blocks.append((char, count))
+        ret.append((char, count))
         i += 1
 
     ans = 0
-    for char, count in blocks:
+    for char, count in ret:
         ans += count * (count + 1) // 2
 
-    for i in range(1, len(blocks) - 1):
-        if blocks[i][1] == 1 and blocks[i - 1][0] == blocks[i + 1][0]:
-            ans += min(blocks[i - 1][1], blocks[i + 1][1])
+    for i in range(1, len(ret) - 1):
+        head = ret[i - 1]
+        mid = ret[i]
+        end = ret[i + 1]
+        if mid[1] == 1 and head[0] == end[0]:
+            ans += min(head[1], end[1])
 
     return ans
 

@@ -15,7 +15,6 @@ import sys
 
 from functools import lru_cache
 
-
 @lru_cache(None)
 def stepPerms(n):
     # Write your code here

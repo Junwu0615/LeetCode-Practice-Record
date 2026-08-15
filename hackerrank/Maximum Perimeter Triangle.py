@@ -26,12 +26,12 @@ def maximumPerimeterTriangle(sticks):
         return ret
 
     for idx in range(n - 2):
-        curr = sticks[idx: idx + 3]
+        curr = sticks[idx : idx + 3]
         if curr[0] + curr[1] > curr[2]:
-            _sum = curr[0] + curr[1] + curr[2]
+            _sum = max(curr)
             if _sum > max_num:
                 max_num = _sum
-                ret = [curr[0], curr[1], curr[2]]
+                ret = curr
     return ret
 
 

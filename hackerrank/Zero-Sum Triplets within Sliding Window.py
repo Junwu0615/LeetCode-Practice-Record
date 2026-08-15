@@ -30,8 +30,8 @@ def findZeroSumTripletsInWindow(readings, windowSize):
         w_len = len(window)
 
         for j in range(w_len - 2):
-            if j > 0 and window[j] == window[j - 1]:
-                continue
+            # if j > 0 and window[j] == window[j - 1]:
+            #     continue
 
             left = j + 1
             right = w_len - 1
